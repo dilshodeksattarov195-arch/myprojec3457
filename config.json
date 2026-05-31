@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcelete",
+        "uuid": 34825818,
+        "checksum": "osdynm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
